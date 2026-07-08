@@ -1,9 +1,9 @@
-Name,Cost,Suppplier,Quantity,Units,
-BS170 MOSFET,£0.43 each,bitsboxuk,5,units,
-Red wire 1/0.6,£0.39 each,bitsboxuk,2,meters,
-Blue wire 1/0.6,£0.42 each,bitsboxuk,2,meters,
-Black wire 1/0.6,£0.38 each,bitsboxuk,2,meters,
-Budget Pocket DMM,£4.99,bitsboxuk,1,unit,
-Heatsink TO-220 7C/W,£1.42 each,bitsboxuk,2,units,
-Heatsink Compound - 1g Syringe,£1.58,bitsboxuk,1,unit,
-5V DC Peristaltic Pump,£4.86,amazon,1,unit,
+Name,Cost,Suppplier,Quantity,Units
+BS170 MOSFET,£0.43 each,bitsboxuk,5,units
+Red wire 1/0.6,£0.39 each,bitsboxuk,2,meters
+Blue wire 1/0.6,£0.42 each,bitsboxuk,2,meters
+Black wire 1/0.6,£0.38 each,bitsboxuk,2,meters
+Budget Pocket DMM,£4.99,bitsboxuk,1,unit
+Heatsink TO-220 7C/W,£1.42 each,bitsboxuk,2,units
+Heatsink Compound - 1g Syringe,£1.58,bitsboxuk,1,unit
+5V DC Peristaltic Pump,£4.86,amazon,1,unit
