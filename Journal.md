@@ -1,4 +1,4 @@
-##8th July 2026
+## 8th July 2026
 
 I have designed my pump manager PCB today
 
