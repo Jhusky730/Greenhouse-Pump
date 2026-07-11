@@ -13,7 +13,8 @@ This project is an extention project to my previous project:https://github.com/J
 ### Logic (3V3)
 
 
-<img width="658" height="759" alt="image" src="https://github.com/user-attachments/assets/e9c54cdd-cb60-4dcb-82a0-63b83887253f" />
-<img width="592" height="892" alt="image" src="https://github.com/user-attachments/assets/265163d8-d27e-4cba-8c6d-9cb2c472e060" />
-<img width="612" height="866" alt="image" src="https://github.com/user-attachments/assets/10b95d2a-2093-4f3e-a8e5-337aa5a1c630" />
+<img width="832" height="1069" alt="image" src="https://github.com/user-attachments/assets/e2c03782-fb55-4ea9-aacb-d84434894b81" />
+<img width="773" height="1112" alt="image" src="https://github.com/user-attachments/assets/0c76eb15-540b-4c39-a14f-d10ae81621ea" />
+<img width="892" height="963" alt="image" src="https://github.com/user-attachments/assets/0e73c95d-34bf-4089-ba2d-784ecd854b51" />
+
 
