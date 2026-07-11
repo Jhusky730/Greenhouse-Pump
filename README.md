@@ -4,6 +4,7 @@ This project is an extention project to my previous project:https://github.com/J
 
 I was inspired to make this as i wanted to have my sensor automatically water my greenhouse for me.
 
+This will be housed within the case for the previous project.
 ## Flow of current
 ### 5V
 - The 5V current flows from the USB VBUS pads on the previous project to the new pcb. It is soldered onto a solder pad.
